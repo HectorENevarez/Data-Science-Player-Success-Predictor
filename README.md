@@ -54,7 +54,7 @@ Compares the receiving touchdowns against pro-bowls won by a player (Tight Ends 
 [Wide Receiver Data Analysis](https://github.com/HectorENevarez/Data-Science-Player-Success-Predictor/blob/master/wide_receiver_analysis.ipynb) <br>
 This graph shows the relation between college receiving and scrimmage touchdowns to pro-bowls they won
 ![CollegeTD](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/images/wr.png)<br>
-[Running Back Data Analysis](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/fb_and_rb_analysis.ipynb) <br>
+[Running Back Data Analysis](https://github.com/HectorENevarez/Data-Science-Player-Success-Predictor/blob/master/fb_and_rb_analysis.ipynb) <br>
 This graph shows the relation between college scrimmage yards to pro-bowls won by a player
 ![CScrimYds](https://github.com/DataScience-Proj-MH/NFL_Success/blob/master/images/fb_rb.png)<br>
 
