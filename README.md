@@ -49,6 +49,7 @@ This graph compares the amound of pro-bowls won compared to each players 40 yard
 ![40 Yard chart](images/40yd.png) <br>
 [Tight End Data Analysis](https://github.com/HectorENevarez/Data-Science-Player-Success-Predictor/blob/master/te_analysis.ipynb) <br>
 Compares the receiving touchdowns against pro-bowls won by a player (Tight Ends Only)
+
 ![recTD](images/grapph.png) <br>
 [Wide Receiver Data Analysis](https://github.com/HectorENevarez/Data-Science-Player-Success-Predictor/blob/master/wide_receiver_analysis.ipynb) <br>
 This graph shows the relation between college receiving and scrimmage touchdowns to pro-bowls they won
